@@ -1,0 +1,48 @@
+1.Various Sources of Big data:
+   1.Banking sectors
+   2.Transportation Services
+   3.Social media
+   4 Sensor Data
+   5.Online Shopping
+
+
+2.3 V's of Big Data:
+       
+         1.Volume
+         2.Variety
+         3.Velocity
+ Volume :
+         Volume defines the amount of data stored.This is used to determine whether it is to be considered as bigdata or not.
+ Variety:
+         Variety defines the type of the data and also nature of the data.
+ Velocity:
+         Velocity defines the speed of data processing for meeting all the demands and challenges.
+
+3.Horizontal Scaling and Vertical Scaling:
+  
+   Horizontal scaling:
+
+        1. Horizontal scaling means adding more nodes to system.
+        2. It is also referred as "Scale-out".
+
+   Vertical Scaling :
+        
+        1. Vertical Scaling means adding resources to a single node in a system.
+        2. It is also referred as "Scale-up".
+
+4.Need and Working of Hadoop:
+   
+   Need of Hadoop:
+
+        1.Mostly hadoop is needed for storing  different types of data and also for processing large amount of data.
+        2.It have highly scalable storage platform.
+        3.Hadoop is fault tolerance.
+
+   Working of Hadoop :
+        1.The Working of Hadoop is processing an unstructured data into structured data. 
+        2.In hadoop there are two data processing frameworks.They are
+             
+                        * HDFs
+                        * Map reduce
+   
+       3.HDFS is used to read a file from a distributed system and then Map redue is used for scheduling and processing the data.     
